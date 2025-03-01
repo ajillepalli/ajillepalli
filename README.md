@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<a href="https://www.ajillepalli.github.io/">
+<a href="https://ajillepalli.github.io/">
   <img height="500" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png"/>
 </a>
 </p>
